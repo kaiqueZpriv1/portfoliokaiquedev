@@ -4,6 +4,8 @@ export const HeaderS = styled.header`
 	width: 100%;
 	height: 75px;
 	position: fixed;
+	background: #000814;
+	z-index: 1;
 	.container-header {
 		padding: 25px 380px;
 		display: flex;

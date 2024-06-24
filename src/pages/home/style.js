@@ -3,6 +3,7 @@ import styled from 'styled-components';
 export const HomeS = styled.main`
 	width: 100%;
 	height: 100%;
+	
 	.container-home {
 		position: relative;
 		top: 300px;
